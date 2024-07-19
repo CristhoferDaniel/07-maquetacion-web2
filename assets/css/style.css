@@ -832,6 +832,9 @@ body {
     overflow: hidden;
     border-radius: 3.5rem;
 }
+.author__img{
+    width: 6rem;
+}
 
 .author__content {
     flex: 1;
